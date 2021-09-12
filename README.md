@@ -12,3 +12,14 @@
 #### Iris Dataset — A multivariant dataset used for machine learning purposes. The following dataset contains a set of 150 records under five attributes sepal length sepal width petal length petal width species In this data set we analyze three species of Iris flower, i-e Iris setosa , Iris versicolor , and Iris verginica.
 
 Data can be found at https://archive.ics.uci.edu/ml/datasets/iris
+
+
+### Task 2
+### Beginner Level
+## Name of Project : Stock Market Prediction And Forecasting Using Stacked LSTM
+
+# ABOUT THE PROJECT
+Trying to predict how the securities exchange will work is one of the most difficult tasks. There are so many variables involved with the expectation – physical elements versus psychological factors, rational and irrational behaviour, and so on. All of these factors combine to make share costs unpredictable and difficult to predict with any degree of certainty.
+
+Data can be found at https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
