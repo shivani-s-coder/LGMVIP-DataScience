@@ -23,3 +23,12 @@ Trying to predict how the securities exchange will work is one of the most diffi
 
 Data can be found at https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
+
+### Task 3
+### Beginner Level
+## Name of Project : Image to Pencil Sketch with Python
+
+# ABOUT THE PROJECT
+In Python, an image is just a two-dimensional array of integers. So one can do a couple of matrix manipulations using various python modules in order to get some very interesting effects. In order to convert the normal image to a sketch, we will change its original RGB values and assign its RGB values similar to grey, in this way a sketch of the input image will be generated.
+
+Data - Can take any image for pencil sketch
