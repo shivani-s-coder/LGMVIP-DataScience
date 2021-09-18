@@ -47,3 +47,21 @@ Characteristics of the Database -
 It contains information on over 180,000 terrorist attacks Currently the most comprehensive unclassified database on terrorist attacks in the world Includes information on more than 88,000 bombings, 19,000 assassinations, and 11,000 kidnappings since 1970 Includes information on at least 45 variables for each case, with more recent incidents including information on more than 120 variables More than 4,000,000 news articles and 25,000 news sources were reviewed to collect incident data from 1998 to 2017 alone.
 
 Data can be found at https://bit.ly/2TK5Xn5
+
+
+### Task 5
+### Intermediate Level
+## Name of Project : Prediction Using Decision Tree Algorithm
+
+# ABOUT THE PROJECT
+It is a supervised machine learning algorithm, which can be used for both classification as well as regression. In this project, we will be using Decision Trees as a classifier.
+
+The goal of this algorithm is to create a model that predicts the value of a target variable, for which the decision tree uses the tree representation to solve the problem. The leaf node corresponds to a class label and attributes are represented on the internal node of the tree.
+
+Leaf node refers to a node with zero children.
+
+Internal nodes refer to nodes with children.
+
+Data can be found at https://bit.ly/3kXTdox
+
+
